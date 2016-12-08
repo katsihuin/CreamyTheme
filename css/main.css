@@ -10,10 +10,23 @@ p, a {
 }
 
 /*........................ Inserta tu código aquí */
-.navbar {
-    background:rgb(236,39,61) !important;
-  
 
+.navbar {
+    background: #EC273D !important;
 }
+.navbar-brand, .navbar a {
+    color: #F3F0BB !important;    
+}
+.nav li a:hover, .nav li a:focus {
+    font-weight: bold !important;
+}
+.nav li:hover {
+    font-size:18px;
+    transition:all 0.5s;
+}
+
+
 R: 236 G: 39 B: 61
 	#EC273D
+
+	#F3F0BB
