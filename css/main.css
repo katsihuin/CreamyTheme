@@ -79,3 +79,9 @@ p, a {
 .labels h3 {
     font-family: "Merriweather", serif;       
 }
+/*........................ Section Footer */
+footer {
+	padding: 10px 0;
+	background-color: #EC273D;
+	color: #F3F0BB;
+}
