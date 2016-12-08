@@ -1,0 +1,146 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M896 598v-428h-768v428h768zM896 86c46 0 86 38 86 84v512c0 46-40 86-86 86h-298l84 128v42h-340v-42l84-128h-298c-46 0-86-40-86-86v-512c0-46 40-84 86-84h768z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "desktop_mac"
+        ],
+        "defaultCode": 58123,
+        "grid": 24
+      },
+      "attrs": [],
+      "properties": {
+        "order": 10,
+        "ligatures": "desktop_mac",
+        "id": 206,
+        "prevSize": 24,
+        "code": 58123,
+        "name": "desktop_mac"
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 206
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 910l-62-56c-220-200-364-330-364-492 0-132 102-234 234-234 74 0 146 36 192 90 46-54 118-90 192-90 132 0 234 102 234 234 0 162-144 294-364 494z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "favorite"
+        ],
+        "defaultCode": 59517,
+        "grid": 24
+      },
+      "attrs": [],
+      "properties": {
+        "order": 7,
+        "ligatures": "favorite",
+        "id": 269,
+        "prevSize": 24,
+        "code": 59517,
+        "name": "favorite"
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 269
+    },
+    {
+      "icon": {
+        "paths": [
+          "M234 298c36 0 64-28 64-64s-28-64-64-64-64 28-64 64 28 64 64 64zM914 494c16 16 24 36 24 60s-8 44-24 60l-300 300c-16 16-36 24-60 24s-44-8-60-24l-384-384c-16-16-24-36-24-60v-300c0-46 38-84 84-84h300c24 0 44 8 60 24z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "local_offer"
+        ],
+        "defaultCode": 58702,
+        "grid": 24
+      },
+      "attrs": [],
+      "properties": {
+        "order": 9,
+        "ligatures": "local_offer",
+        "id": 462,
+        "prevSize": 24,
+        "code": 58702,
+        "name": "local_offer"
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 462
+    },
+    {
+      "icon": {
+        "paths": [
+          "M128 256h768v86h-768v-86zM128 554v-84h768v84h-768zM128 768v-86h768v86h-768z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "menu"
+        ],
+        "defaultCode": 58834,
+        "grid": 24
+      },
+      "attrs": [],
+      "properties": {
+        "order": 11,
+        "ligatures": "menu",
+        "id": 489,
+        "prevSize": 24,
+        "code": 58834,
+        "name": "menu"
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 489
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 100,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
