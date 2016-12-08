@@ -1,29 +1,26 @@
-/*........................ Inserta tu código aquí */
-
-body {
-	
-}
+/*........................ General */
 p, a {
     font-family: "Open Sans", sans-serif;
 }
 
 /*........................ Section Header */
-
 .navbar {
     background: #EC273D !important;
 }
 .navbar-brand {
 	font-family: "Merriweather", serif;
 }
-
-.navbar-brand, .navbar a {
+.navbar a {
     color: #F3F0BB !important;    
+}
+.navbar-brand:hover, .navbar-brand:focus {
+    font-weight: bold !important;
 }
 .nav li a:hover, .nav li a:focus {
     font-weight: bold !important;
 }
-.nav li:hover {
-    font-size:18px;
+.navbar-brand:hover, .nav li:hover {
+    font-size:25px;
     transition:all 0.5s;
 }
 
