@@ -3,15 +3,11 @@
 body {
 	
 }
-
-h1, h2, h3, h4, h5, h6 {
-	font-family: "Merriweather", serif;
-}
 p, a {
     font-family: "Open Sans", sans-serif;
 }
 
-/*........................ Header */
+/*........................ Section Header */
 
 .navbar {
     background: #EC273D !important;
@@ -31,7 +27,7 @@ p, a {
     transition:all 0.5s;
 }
 
-/*........................ Hero */
+/*........................ Section Hero */
 .hero {
     background: url(../img/creamy.jpg) no-repeat center;
     background-size: cover;
@@ -51,7 +47,23 @@ p, a {
     font-family: "Merriweather", serif;       
 }
 
-R: 236 G: 39 B: 61
-	#EC273D
+/*........................ Section Creamy */
+.creamy {
+	padding: 30px 0;	
+	background-color: #F3F0BB;
+	color: #EC273D;
+}
+.creamy h3 {
+    font-family: "Merriweather", serif;       
+}
 
-	#F3F0BB
+/*........................ Section About */
+
+.about {
+	padding: 50px 0;
+	background-color: #EC273D;
+	color: #F3F0BB;	
+}
+.about h3 {
+    font-family: "Merriweather", serif;       
+}
